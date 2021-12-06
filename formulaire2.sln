@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formulaire2", "formulaire2.csproj", "{A27C9562-CB67-4CC5-B8AA-ED178CA60525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27C9562-CB67-4CC5-B8AA-ED178CA60525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27C9562-CB67-4CC5-B8AA-ED178CA60525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27C9562-CB67-4CC5-B8AA-ED178CA60525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27C9562-CB67-4CC5-B8AA-ED178CA60525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E71C7D6-8AE1-4964-B3C5-E3E06F4DD417}
+	EndGlobalSection
+EndGlobal
